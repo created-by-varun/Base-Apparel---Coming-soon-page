@@ -5,8 +5,11 @@ An assignment project for front-end web development (convert image to website)
 
 ## Preview Images:
 
+#### Desktop Preview
+
 ![](img/preview/desktop-preview.jpg)
 
 <br>
+#### Mobile Preview
 
 ![](img/preview/mobile-design.jpg)
