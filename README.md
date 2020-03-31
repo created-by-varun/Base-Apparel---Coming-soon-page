@@ -9,7 +9,8 @@ An assignment project for front-end web development (convert image to website)
 
 ![](img/preview/desktop-preview.jpg)
 
-<br>
+<br/>
+
 #### Mobile Preview
 
 ![](img/preview/mobile-design.jpg)
